@@ -8,7 +8,7 @@ https://codepen.io/Aisha-the-animator/pen/bNGgMqE
 https://codepen.io/Anonymous-goose/pen/jEOVpKb
 
 
-# Cute text animation with hearts
+
 https://codepen.io/Anonymous-goose/pen/PwobyGK?editors=1000
 
 
